@@ -1,16 +1,20 @@
 # A resource list for learning computer science
 
 ## Content
-[Programming language](##Programming-language)
-[Computer systems](##Computer-systems)
-[Algorithms](##Algorithms)
-[Software engineering](##Software-engineering)
 
-##Programming-language
+[Programming language](#Programming-language)
 
-##Computer-systems
+[Computer systems](#Computer-systems)
 
-##Algorithms
+[Algorithms](#Algorithms)
+
+[Software engineering](#Software-engineering)
+
+## Programming language
+
+## Computer systems
+
+## Algorithms
 
 ### Books
 
