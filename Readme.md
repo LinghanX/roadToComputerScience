@@ -6,11 +6,11 @@
 [Algorithms](##Algorithms)
 [Software engineering](##Software-engineering)
 
-(##Programming-language)
+##Programming-language
 
-(##Computer-systems)
+##Computer-systems
 
-(##Algorithms)
+##Algorithms
 
 ### Books
 
