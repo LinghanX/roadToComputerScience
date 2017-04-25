@@ -1,16 +1,16 @@
 # A resource list for learning computer science
 
 ## Content
-[Programming language](## Programming language)
-[Computer systems](## Computer systems)
-[Algorithms](## Algorithms)
-[Software engineering](## Software engineering)
+[Programming language](##Programming-language)
+[Computer systems](##Computer-systems)
+[Algorithms](##Algorithms)
+[Software engineering](##Software-engineering)
 
-## Programming language
+(##Programming-language)
 
-## Computer systems
+(##Computer-systems)
 
-## Algorithms
+(##Algorithms)
 
 ### Books
 
@@ -19,4 +19,4 @@
 -- A wonderful free book on operating systems. Covers every part of the Operating
 systems and provides very easy to follow exercises.
 
-## Software engineering
+(##Software-engineering)
