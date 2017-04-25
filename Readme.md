@@ -1,4 +1,4 @@
-# A resource list for learning computer science
+# An effort to survice my computer science degree :D
 
 ## Content
 
