@@ -1,4 +1,4 @@
-# An effort to survice my computer science degree :D
+# An effort to survive my computer science degree :D
 
 ## Content
 
